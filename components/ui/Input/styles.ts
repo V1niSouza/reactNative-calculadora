@@ -2,8 +2,7 @@ import { StyleSheet } from "react-native";
 
 export default StyleSheet.create({
     view:{
-        alignItems: "flex-end", 
-        marginBottom: 20
+        alignItems: "flex-end",
     },
     text:{
         fontSize: 48, 

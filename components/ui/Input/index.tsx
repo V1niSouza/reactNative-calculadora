@@ -9,7 +9,7 @@ export default function Display({
     children } : DisplayProps ){
         return(
             <View style={[styles.view]}>
-                <Text style={[styles.text]}>Resultado:{children}</Text>
+                <Text style={[styles.text]}>{children}</Text>
             </View>
         )
     }

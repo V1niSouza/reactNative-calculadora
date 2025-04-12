@@ -4,8 +4,8 @@ export default StyleSheet.create({
     button:{
         flex: 1,
         margin: 5,
-        height: 80,
-        borderRadius: 10,
+        height: 100,
+        borderRadius: '70%',
         justifyContent: 'center',
         alignItems: 'center'
     },

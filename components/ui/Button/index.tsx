@@ -1,5 +1,5 @@
-import React, { Children } from "react";
-import { StyleSheet, TouchableOpacity, Text } from "react-native"
+import React from "react";
+import { TouchableOpacity, Text } from "react-native"
 import styles from "./styles"
 
 type NumberOperationProps = {

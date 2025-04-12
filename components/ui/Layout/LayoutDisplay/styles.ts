@@ -4,10 +4,10 @@ export default StyleSheet.create({
     container:{
         alignItems: "flex-end",
         marginBottom: 20,
-        padding: 16,
+        padding: 20,
         backgroundColor: "#1c1c1c",
         borderRadius: 8,
-        minHeight: 100,
+        minHeight: 150,
         justifyContent: "center"
     },
     text: {
