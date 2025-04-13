@@ -1,4 +1,4 @@
-import { ScrollView, Text,  } from "react-native"
+import { ScrollView } from "react-native"
 import ButtonGrid from "../ui/Layout/LayoutButtons"
 import CalculatorContainer from "../ui/Layout/LayoutContainer"
 import CalculatorDisplay from "../ui/Layout/LayoutDisplay"
